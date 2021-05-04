@@ -1,19 +1,17 @@
 //
-//  ViewController.swift
+//  ProfileViewController.swift
 //  Netology_IB_Instruments
 //
-//  Created by Евгений Матафонов on 01.05.2021.
+//  Created by Евгений Матафонов on 02.05.2021.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class ProfileViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-
-
 }
-
